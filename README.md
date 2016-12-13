@@ -1,4 +1,4 @@
-# theElectronicDiceGame
+# The Electronic Dice Game
 
 
 The Dice Game is used to demonstrate Eli Goldratt's 'Theory of Constraints'. The game is a powerful learning exercise that demonstrates the impact of variability and dependency on throughput and work-in-process inventory. The insights obtained by playing this game can also be extended to a service or supply chain context.
